@@ -25,4 +25,4 @@ Podemos dividir este segmento de las notas en tres partes:
 Cada una de estas estructuras existe dentro de Python con un nombre específico y tiene reglas y operadores bien definidos. 
 
 Como recursos adicionales tenemos también las siguientes notas, las cuales te recomiendo ampliamente que leas antes avanzar ya que solamente acá se verán algunos conceptos que se usarán el resto del las notas:
-* Notas en complejidad computacional 
+* [Notas en complejidad computacional](https://github.com/uncrayon/MiniCursoPython3/blob/master/Notas_Adicionales/Complejidad_Computacional.ipynb)

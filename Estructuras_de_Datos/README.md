@@ -1,4 +1,4 @@
-# Estrucutas de datos
+# Estructuras de datos
 
 En términos prácticos las _estructuras de datos_ son formas particulares en las que una computadora almacena datos para que así estos puedan ser utilizados de forma efectiva: queremos poder acceder a nuetros datos rápido, que no se pierdas y quizás que estén bien disponibles sólo por cortos momentos o bien hasta que nosotros decidamos eliminar esos datos.  
 
